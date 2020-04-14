@@ -19,3 +19,5 @@ nogle_højdeforskelle = det_hele["Observationer"]["dH"].head()
 print(nogle_højdeforskelle)
 print(80*"-")
 plt.plot(nogle_højdeforskelle)
+plt.show()
+
